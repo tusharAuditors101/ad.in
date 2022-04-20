@@ -1,0 +1,346 @@
+# Copyright (C) 2021 GP Populate Anything
+# This file is distributed under the same license as the GP Populate Anything package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GP Populate Anything\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../class-gp-populate-anything.php:490
+msgid "Populate choices dynamically"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:491
+msgid "Populate value dynamically"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:492
+msgid "Add Filter"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:493
+msgid "Label"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:494
+msgid "Value"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:495
+msgid "Price"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:496
+msgid "Loading..."
+msgstr ""
+
+#: ../class-gp-populate-anything.php:500
+msgid "✎ Custom Value"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:501
+msgid "Standard Values"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:502
+msgid "Form Field Values"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:503
+msgid "Special Values"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:504
+msgid "(boolean) true"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:505
+msgid "(boolean) false"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:506
+msgid "(null) NULL"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:507
+msgid "Select a %s"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:508
+msgid "Only Show Unique Results"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:509
+msgid "Reset"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:510
+msgid "Type"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:511
+msgid "Object Type"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:512
+msgid "Filters"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:513
+msgid "Ordering"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:514
+msgid "Ascending"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:515
+msgid "Descending"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:516
+msgid "Random"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:517
+msgid "Choice Template"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:518
+msgid "Value Templates"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:520
+msgid "is"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:521
+msgid "is not"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:522
+msgid ">"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:523
+msgid ">="
+msgstr ""
+
+#: ../class-gp-populate-anything.php:524
+msgid "<"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:525
+msgid "<="
+msgstr ""
+
+#: ../class-gp-populate-anything.php:526
+msgid "contains"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:527
+msgid "does not contain"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:528
+msgid "starts with"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:529
+msgid "ends with"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:530
+msgid "is LIKE"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:531
+msgid "is in"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:532
+msgid "is not in"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:534
+msgid "No results matched"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:535
+msgid "This field is configured to an object type for which you do not have permission to edit."
+msgstr ""
+
+#: ../class-gp-populate-anything.php:536
+msgid "The selected Object Type is restricted. Non-super admins will not be able to edit this field's GPPA settings."
+msgstr ""
+
+#: ../class-gp-populate-anything.php:537
+msgid "Too many values to display."
+msgstr ""
+
+#: ../class-gp-populate-anything.php:1310, ../class-gp-populate-anything.php:3361, ../includes/class-live-merge-tags.php:987
+msgid "Fill Out Other Fields"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:1331
+msgid "No Results"
+msgstr ""
+
+#: ../class-gp-populate-anything.php:2351
+msgid "Please fill out other fields."
+msgstr ""
+
+#: ../includes/class-object-type-database.php:46
+msgid "Database: "
+msgstr ""
+
+#: ../includes/class-object-type-database.php:52
+msgid "Columns"
+msgstr ""
+
+#: ../includes/class-object-type-database.php:60
+msgid "Table"
+msgstr ""
+
+#: ../includes/class-object-type-gf-entry.php:31
+msgid "Gravity Forms Entry"
+msgstr ""
+
+#: ../includes/class-object-type-gf-entry.php:37
+msgid "Fields"
+msgstr ""
+
+#: ../includes/class-object-type-gf-entry.php:41
+msgid "Entry Meta"
+msgstr ""
+
+#: ../includes/class-object-type-gf-entry.php:50
+msgid "Form"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:78
+msgid "Post"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:91
+msgid "Post Taxonomies"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:100
+msgid "Post Meta"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:376
+msgid "Author"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:383
+msgid "Post Status"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:389
+msgid "Post Title"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:396
+msgid "Post Content"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:402
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:409
+msgid "Post Name (Slug)"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:416
+msgid "Post ID"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:423
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:430
+msgid "Post Date"
+msgstr ""
+
+#: ../includes/class-object-type-post.php:437
+msgid "Parent Post"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:26
+msgid "Taxonomy Term"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:32
+msgid "Term Meta"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:62
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:68
+msgid "Name"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:75
+msgid "Slug"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:82
+msgid "Object ID"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:89
+msgid "Term ID"
+msgstr ""
+
+#: ../includes/class-object-type-term.php:96
+msgid "Parent Term"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:28
+msgid "User"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:34
+msgid "User Meta"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:37
+msgid "BuddyPress Extended Profile"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:179
+msgid "Display Name"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:186
+msgid "User ID"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:193
+msgid "Username"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:200
+msgid "User Email"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:207
+msgid "User URL"
+msgstr ""
+
+#: ../includes/class-object-type-user.php:214
+msgid "Role"
+msgstr ""

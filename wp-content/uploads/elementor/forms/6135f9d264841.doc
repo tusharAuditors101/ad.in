@@ -1,0 +1,176 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>
+                                        <p><strong>Entity name</strong> : Testeraudit</p>
+
+                                        <p><strong>Date of financial statement</strong> :2021-07-27 TO 2023-01-27 </p>
+
+                                        <p><strong>Purpose</strong></p>
+
+                                        <p>This form is used to document our procedures to meet the requirements of Going Concern assessment.</p>
+                                        
+                                        <p>The partner in charge of the audit evidence approval of:</p>
+
+                                        <ul class="ml-5">
+                                            <li>The conclusion on the appropriateness of management’s use of the going concern basis of accounting in the preparation of the financial statements.</li>
+                                            <li>The conclusion reached as to whether there is substantial doubt about an entity’s ability to continue as a going concern for a reasonable period.</li>
+                                            <li>Whether the documentation included in the workpapers is adequate</li>
+                                        </ul>
+
+                                        <p><strong>Information produced by the entity.</strong></p>
+                                        <p>The risks of information provided by the entity, when applicable, are addressed as part of our going concern procedures.</p>
+                                        <br>
+                                        <p></p><h3>Part A: Scope &amp; Strategy</h3><p></p>
+                                        <p><b>Consider whether there are conditions or events that raise substantial doubt about Going Concern</b></p>
+                                        <p>We may make inquiries of management when considering whether there are conditions or events that raise substantial doubt. If we do, indicate the names and titles of whom we made inquiries.</p>
+                                        <br>
+                                    
+                                        <table id="addPartAATable" class="table thead-light table-striped table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th><b>Name:</b></th>
+                                                    <th><b>Title:</b></th>
+                                                    <th><b>Date:</b></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>    
+                                                                                            <tr id="0">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td><span class="inputLabel inputDate"></span></td>
+                                                </tr>
+                                                                                            </tbody>
+                                        </table>
+                                        <button id="addPartAARow" class="btn btn-outline-primary mb-3" style="display: none;">Add Row</button>
+                                        <style>
+                                            td, tr, table{
+                                                text-align: left;
+                                            }
+                                            .table thead th{
+                                                vertical-align: middle;
+                                            }
+                                        </style>
+                                        <table id="addPartABTable" class="table thead-light table-stripped table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th><b>Procedures</b></th>
+                                                    <th><b>Document results of procedures here and cross reference to the applicable documentation:</b></th>
+                                                    <th><b>Action</b></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                                                            <tr>
+                                                    <td><label for="">a)Has management performed a preliminary evaluation of the entity’s ability to continue as a going concern?</label></td>
+                                                    <input type="hidden" name="freeTextA[0][0]" value="105">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                    </td>
+                                                </tr>
+                                                                                                <tr>
+                                                    <td><label for="">b)Discuss the preliminary going concern evaluation with management. Obtain an understanding of:
+<ul class="ml-4">
+<li>The process management followed to make its evaluation.</li>
+<li>The assumptions on which the evaluation is based</li>
+<li>Managements plans for future action</li>
+</ul></label></td>
+                                                    <input type="hidden" name="freeTextA[1][0]" value="106">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                    </td>
+                                                </tr>
+                                                                                                <tr>
+                                                    <td><label for="">c)Has management identified conditions or events that, when considered in the aggregate, raise substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time?</label></td>
+                                                    <input type="hidden" name="freeTextA[2][0]" value="107">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                    </td>
+                                                </tr>
+                                                                                                <tr>
+                                                    <td><label for="">d)<p data-f-id="pbf" style="text-align: center; font-size: 14px; margin-top: 30px; opacity: 0.65; font-family: sans-serif;">Powered by <a href="https://www.froala.com/wysiwyg-editor?pb=1" title="Froala Editor">Froala Editor</a></p></label></td>
+                                                    <input type="hidden" name="freeTextA[3][0]" value="121">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                                                                                    <i class="fas fa-edit editProcedure" style="color:blue !important; cursor: pointer;" id="121"></i>
+                                                                <i class="fas fa-trash-alt deleteProcedureModal" style="color:red !important; cursor: pointer;" id="121"></i>
+                                                            </td>
+                                                </tr>
+                                                                                            </tbody>
+                                        </table>
+                                        <button id="addPartABRow" class="btn btn-outline-primary mb-3 ml-1" href="#" data-toggle="modal" data-target="#addProcedureABModal" style="display: none;">
+                                            <span>Add Procedure</span>
+                                        </button>
+                                        <p>Document additional considerations as needed:</p>
+                                        <textarea name="desc_a" class="form-control mb-3" cols="30" rows="5"></textarea>
+                                        <br>
+                                        <p></p><h3>Part B: Execute &amp; Conclude</h3><p></p>
+                                        <p>Procedures to evaluate the entity’s ability to continue as a going concern</p>
+                                        <p>We evaluate whether there is substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time based on the results of our procedures performed during the audit. We consider whether our procedures identify conditions or events that may raise substantial doubt about the entity’s ability to continue as a going concern.</p>
+                                        <p>Management’s evaluation and supporting analysis of going concern is often an important consideration to our evaluation of the entity’s ability to continue as a going concern.</p>
+                                        <p>We may make inquiries of management when evaluating the entity’s ability to continue as a going concern. If we do, indicate the names and titles of whom we made inquiries</p>
+                                        <table id="addPartBATable" class="table thead-light table-striped table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th><b>Name:</b></th>
+                                                    <th><b>Title:</b></th>
+                                                    <th><b>Date:</b></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                                                            <tr id="0">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td><span class="inputLabel inputDate"></span></td>
+                                                </tr>
+                                                                                            </tbody>
+                                        </table>
+                                        <button id="addPartBARow" class="btn btn-outline-primary mb-3" style="display: none;">Add Row</button>
+                                        <style>
+                                            td, tr, table{
+                                                text-align: left;
+                                            }
+                                            .table thead th{
+                                                vertical-align: middle;
+                                            }
+                                        </style> 
+                                        <table id="addPartBBTable" class="table thead-light table-stripped table-bordered">
+                                            <thead>
+                                                <tr>
+                                                    <th><b>Procedures</b></th>
+                                                    <th><b>Document results of procedures here and cross reference to the applicable documentation:</b></th>
+                                                    <th><b>Action</b></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                                                            <tr>
+                                                    <td><label for="">a)Has management identified any conditions or events that may raise substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time or is management aware of any conditions or events beyond the period of management’s evaluation that may have an effect on the entity’s ability to continue as a going concern?</label></td>
+                                                    <input type="hidden" name="freeTextB[0][0]" value="108">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                    </td>
+                                                </tr>
+                                                                                                <tr>
+                                                    <td><label for="">b)Have the results of audit procedures performed identified any conditions or events that may raise substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time?</label></td>
+                                                    <input type="hidden" name="freeTextB[1][0]" value="109">
+                                                    <td><span class="inputLabel"></span></td>
+                                                    <td>
+                                                    </td>
+                                                </tr>
+                                                                                            </tbody>
+                                        </table>
+                                        <button id="addPartBBRow" class="btn btn-outline-primary mb-3 ml-1" href="#" data-toggle="modal" data-target="#addProcedureBBModal" style="display: none;">
+                                            <span>Add Procedure</span>
+                                        </button>
+                                        <p>Document additional considerations as needed:</p>
+                                        <textarea name="desc_b" class="form-control mb-3" cols="30" rows="5"></textarea>
+                                        <br>
+                                        <p><b>Conclusion</b></p>
+                                        <p><b><i>We did not give consideration to modification of our auditor’s report</i></b><i class="fas fa-edit editConclusion" style="color:blue !important; cursor: pointer;" id="0"></i></p>
+                                        <p>Choose anyone from the options given below:</p>
+                                                                                        <input type="radio" id="61" name="conclusion" value="0" style="display: none;">
+                                                <label for="0" style="font-weight: normal; display: none;"><p>We completed our audit procedures and have not identified any conditions or events that, when considered in the aggregate, raise substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time. We believe it is appropriate for management to prepare the entity’s financial statements using the going concern basis of accounting. We also documented our considerations and conclusion regarding the entity’s ability to continue as a going concern in <span style="color:red;">document XXX.</span></p><p data-f-id="pbf" style="text-align: center; font-size: 14px; margin-top: 30px; opacity: 0.65; font-family: sans-serif;">Powered by <a href="https://www.froala.com/wysiwyg-editor?pb=1" title="Froala Editor">Froala Editor</a></p>&nbsp;<i class="fas fa-edit editTextarea" style="color:blue !important; cursor: pointer;" id="61"></i></label><br>
+                                                                                                <input type="radio" id="62" name="conclusion" value="1" style="display: none;">
+                                                <label for="1" style="font-weight: normal; display: none;">We identified conditions or events that, when considered in the aggregate, raise substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time. After consideration of management’s plans and mitigating factors, we concluded substantial doubt had been alleviated. We obtained sufficient appropriate audit evidence to conclude that the use of the going concern basis of accounting is appropriate and the disclosures made in the financial statements with respect to the going concern matters are adequate. We concluded that a modification to our auditor’s report is not necessary and expressed an unmodified opinion. We consulted with the Professional Practice Director assigned to the Region or another Professional Practice partner assigned to the Region and documented the results of our consultation. We also documented our considerations and conclusion regarding the entity’s ability to continue as a going concern in <span style="color:red;">document XXX.</span>&nbsp;<i class="fas fa-edit editTextarea" style="color:blue !important; cursor: pointer;" id="62"></i></label><br>
+                                                                                                <input type="radio" id="63" name="conclusion" value="2" style="display: none;">
+                                                <label for="2" style="font-weight: normal; display: none;">We identified conditions or events that, when considered in the aggregate, indicate there is substantial doubt about the entity’s ability to continue as a going concern for a reasonable period of time. After consideration of management’s plans, we concluded substantial doubt remains. We obtained sufficient appropriate audit evidence to conclude that the use of the Free Text going concern basis of accounting is appropriate and the disclosures made in the financial statements with respect to the going concern matters are adequate. We expressed an unmodified opinion and included the required additional paragraph in our auditor’s report.&nbsp;We also documented our considerations and conclusion regarding the entity’s ability to continue as a going concern in <span style="color:red;">document XXX.. For listed entities, other public interest entities and other entities with public accountability, we consulted with the Professional Practice Director assigned to the Region or another Professional Practice partner assigned to the Region and documented the results of our consultation.</span>&nbsp;<i class="fas fa-edit editTextarea" style="color:blue !important; cursor: pointer;" id="63"></i></label><br>
+                                                                                        <br>
+                                        <p>Document additional considerations as needed:</p>
+                                        <textarea name="desc_c" class="form-control mb-3" cols="30" rows="5"></textarea>
+                                    </body></html>

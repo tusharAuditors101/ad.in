@@ -1,0 +1,12 @@
+<b>5.7.5  SINGLE DOMAIN SSL 0 - https://auditorsdesk.in</b>
+Domain covered:
+["auditorsdesk.in","www.auditorsdesk.in"]
+
+[07-01-2022 08:36:41] :
+LEClient finished constructing
+
+Getting SSL certificates
+[07-01-2022 08:36:45] :
+Certificate for 'auditorsdesk.in' saved
+
+<h2>SSL Certificate generated successfully!</h2>

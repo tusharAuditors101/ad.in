@@ -1,0 +1,57 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://iqonic.design/wp-themes/qloud/demo-2
+Data file = /var/www/html/wp-themes/qloud/wp-content/uploads/sites/2/2020/02/qloud-wordpresstheme.WordPress.2020-02-25.xml
+Widget file = /var/www/html/wp-themes/qloud/wp-content/uploads/sites/2/2020/02/iqonic.design-wp-themes-qloud-widgets.wie
+Customizer file = /var/www/html/wp-themes/qloud/wp-content/uploads/sites/2/2020/02/qloud-export.dat
+Redux files:
+qloud_options -> /var/www/html/wp-themes/qloud/wp-content/uploads/sites/2/2020/02/redux_options_qloud_options_backup_25-02-2020.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - About Us - Imported
+
+Footer Area 4 : 
+
+Navigation Menu - Useful links - Imported
+
+Footer Area 5 : 
+
+Qloud Contact - ContactUs - Imported
+
+Footer Top Area : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: qloud_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,205 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/lopi
+Data file = C:\xampp\htdocs\lopi/wp-content/themes/qloud/inc/demo/master-demo/qloud_xml.xml
+Widget file = C:\xampp\htdocs\lopi/wp-content/themes/qloud/inc/demo/master-demo/qloud_wie.wie
+Customizer file = C:\xampp\htdocs\lopi/wp-content/themes/qloud/inc/demo/master-demo/qloud_dat.dat
+Redux files:
+qloud_options -> C:\xampp\htdocs\lopi/wp-content/themes/qloud/inc/demo/master-demo/qloud_json.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - About Us - Imported
+
+Footer Area 4 : 
+
+Navigation Menu - Useful links - Imported
+
+Footer Area 5 : 
+
+Qloud Contact - Contact Us - Imported
+
+Footer Top Area : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

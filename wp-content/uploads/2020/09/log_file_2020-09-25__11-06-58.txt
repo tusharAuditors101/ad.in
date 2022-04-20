@@ -1,0 +1,213 @@
+
+---Downloaded files---
+The import files for: Demo 2 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://192.168.1.225/latest/qloud
+Data file = /opt/lampp/htdocs/latest/qloud/wp-content/themes/qloud/inc/demo/demo-2/qloud_xml.xml
+Widget file = /opt/lampp/htdocs/latest/qloud/wp-content/themes/qloud/inc/demo/demo-2/qloud_wie.wie
+Customizer file = /opt/lampp/htdocs/latest/qloud/wp-content/themes/qloud/inc/demo/demo-2/qloud_dat.dat
+Redux files:
+qloud_options -> /opt/lampp/htdocs/latest/qloud/wp-content/themes/qloud/inc/demo/demo-2/qloud_json.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - About Us - Imported
+
+Footer Area 4 : 
+
+Navigation Menu - Useful links - Imported
+
+Footer Area 5 : 
+
+Qloud Contact - Contact Us - Imported
+
+Footer Top Area : 
+
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: qloud_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
